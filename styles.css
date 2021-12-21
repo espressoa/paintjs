@@ -23,6 +23,11 @@ body {
     align-items: center;
 }
 
+.controls .controls_range {
+    margin-bottom: 30px;
+
+}
+
 .controls .controls_btns {
     margin-bottom: 30px;
 
